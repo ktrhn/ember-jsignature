@@ -15,6 +15,7 @@ const defaultConfig = {
 	exportFormat: 'native',
 
 	// settings
+	border: 'none',
 	width: 'ratio',
 	height: 'ratio',
 	sizeRatio: 4, // only used when height = 'ratio'
